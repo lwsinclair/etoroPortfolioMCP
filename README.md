@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shlomico-tr-etoroportfoliomcp-badge.png)](https://mseep.ai/app/shlomico-tr-etoroportfoliomcp)
+
 # eToro MCP Server
 
 This server provides MCP (Model Context Protocol) tools for interacting with eToro's public API endpoints. It allows you to:
